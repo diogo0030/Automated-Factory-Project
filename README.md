@@ -25,8 +25,8 @@ The shipping cell is responsible for preparing and sending finished products. It
 ## Processing Cell
 The processing cell is where products undergo the necessary transformation operations. This cell includes:
 
-A Processing machine.
-Managing processing time and sequence for production optimization.
+- A Processing machine.
+- Managing processing time and sequence for production optimization.
 
 ## Transport Cell
 The transport cell ensures efficient movement of materials and products between different cells in the factory. 
@@ -51,7 +51,6 @@ This repository includes implementations of the automated factory using three di
 - C/: Source code and Factory I/O project files for C implementation.
 - GRAFCET/: Source code and Factory I/O project files for GRAFCET implementation.
 - SFC/: Source code and Factory I/O project files for SFC Programming implementation.
-
 
 
 
