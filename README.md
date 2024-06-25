@@ -10,6 +10,7 @@ Shipping Cell
 Processing Cell
 Transport Cell
 Separation Cell
+
 Each cell has its specific features and functionalities, which are detailed below.
 
 # Shipping Cell
