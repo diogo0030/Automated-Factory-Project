@@ -19,8 +19,8 @@ Each cell has its specific features and functionalities, which are detailed belo
 ## Shipping Cell
 The shipping cell is responsible for preparing and sending finished products. Its main functionalities include:
 
-Receiving processed products.
-Monitoring the shipping status.
+- Receiving processed products.
+- Monitoring the shipping status.
 
 ## Processing Cell
 The processing cell is where products undergo the necessary transformation operations. This cell includes:
@@ -35,22 +35,22 @@ The transport cell ensures efficient movement of materials and products between 
 ## Separation Cell
 The separation cell functions to classify and separate products according to their final specifications. This cell comprises:
 
-Automatic classification systems.
-Sensors to identify product characteristics.
-Diverting products to different destinations based on classification.
+- Automatic classification systems.
+- Sensors to identify product characteristics.
+- Diverting products to different destinations based on classification.
 
 # Programming Approaches
 This repository includes implementations of the automated factory using three different programming approaches:
 
-GRAFCET: A graphical representation for the specification of sequential function charts.
-SFC Programming: Sequential Function Chart programming used for modeling complex logic, programmed using CODESYS.
-C: Traditional programming language offering fine-grained control over the system.
+- GRAFCET: A graphical representation for the specification of sequential function charts.
+- SFC Programming: Sequential Function Chart programming used for modeling complex logic, programmed using CODESYS.
+- C: Traditional programming language offering fine-grained control over the system.
 
 # Repository Structure
 
-C/: Source code and Factory I/O project files for C implementation.
-GRAFCET/: Source code and Factory I/O project files for GRAFCET implementation.
-SFC/: Source code and Factory I/O project files for SFC Programming implementation.
+- C/: Source code and Factory I/O project files for C implementation.
+- GRAFCET/: Source code and Factory I/O project files for GRAFCET implementation.
+- SFC/: Source code and Factory I/O project files for SFC Programming implementation.
 
 
 
