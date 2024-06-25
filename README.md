@@ -7,8 +7,11 @@ This repository contains the code developed for the Automation Systems (SA) cour
 The goal of the project is to program an automated factory that integrates four main operational cells:
 
 Shipping Cell
+
 Processing Cell
+
 Transport Cell
+
 Separation Cell
 
 Each cell has its specific features and functionalities, which are detailed below.
