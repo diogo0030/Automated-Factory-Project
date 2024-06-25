@@ -2,7 +2,7 @@
 
 This repository contains the code developed for the Automation Systems (SA) course project in the Electrical and Computer Engineering program at the Faculty of Engineering of the University of Porto (FEUP).
 
-#Project Description
+# Project Description
 
 The goal of the project is to program an automated factory that integrates four main operational cells:
 
