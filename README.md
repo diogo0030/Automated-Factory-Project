@@ -16,23 +16,23 @@ The goal of the project is to program an automated factory that integrates four 
 
 Each cell has its specific features and functionalities, which are detailed below.
 
-# Shipping Cell
+## Shipping Cell
 The shipping cell is responsible for preparing and sending finished products. Its main functionalities include:
 
 Receiving processed products.
 Monitoring the shipping status.
 
-# Processing Cell
+## Processing Cell
 The processing cell is where products undergo the necessary transformation operations. This cell includes:
 
 A Processing machine.
 Managing processing time and sequence for production optimization.
 
-# Transport Cell
+## Transport Cell
 The transport cell ensures efficient movement of materials and products between different cells in the factory. 
 
 
-# Separation Cell
+## Separation Cell
 The separation cell functions to classify and separate products according to their final specifications. This cell comprises:
 
 Automatic classification systems.
