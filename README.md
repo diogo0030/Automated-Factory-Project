@@ -48,9 +48,9 @@ This repository includes implementations of the automated factory using three di
 
 # Repository Structure
 
-- C/: Source code and Factory I/O project files for C implementation.
-- GRAFCET/: Source code and Factory I/O project files for GRAFCET implementation.
-- SFC/: Source code and Factory I/O project files for SFC Programming implementation.
+- C/: Source code and Factory I/O project files for C implementation.The Factory I/O project files are provided to test the code visually.
+- GRAFCET/: Source code and Factory I/O project files for GRAFCET implementation.The Factory I/O project files are provided to test the code visually.
+- SFC/: Source code and Factory I/O project files for SFC Programming implementation.The Factory I/O project files are provided to test the code visually.
 
 
 
